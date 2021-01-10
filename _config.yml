@@ -63,10 +63,10 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "vpJ9jQkZ3HcfQokhTKDPQzuINnVGBdhHFM8Qx5LaQRQ"
+google_site_verification : "google7ed11c039ffb01e8.html"
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
+naver_site_verification  : "naver3a3a93cefe7dc04dede59a10638f3e87.html"
 
 # Social Sharing
 twitter:
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "London"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "오늘보다 내일 더 발전하는\n데이터 분석가입니다."
+  bio              : "오늘보다 내일 더 발전하는 데이터 분석가입니다."
   location         : "Seoul/Korea"
   email            :
   links:
